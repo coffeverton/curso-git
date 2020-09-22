@@ -1,3 +1,3 @@
 # Arquivo leia-me
-![./robot.png](Robô)
+![./robot.png]
 Repositório de testes
